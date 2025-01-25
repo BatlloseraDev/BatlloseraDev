@@ -37,6 +37,9 @@ I'm currently based in **[Puertollano, Ciudad Real, España]((https://g.co/kgs/g
 I love learning new techs and using new tools, because this right now I am stuying web application development and on my free times learning about GODOT. I also love read and travel!.
 <br />
 <br />
+
+</div>
+<div align="left">
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -50,6 +53,8 @@ I love learning new techs and using new tools, because this right now I am stuyi
 - 💬 Ask me about Unity, C#, JavaScript
   
 - ⚡ Fun fact: I am trying to write a book.
+
+</div>
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
 Ask me anything <a href="mailto:batlloseradeveloper@gmail.com"><b>sending me an email</b></a>.
