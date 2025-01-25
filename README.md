@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **BatlloseraDev/BatlloseraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,7 +64,7 @@ Ask me anything <a href="mailto:batlloseradeveloper@gmail.com"><b>sending me an 
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,blender,java,kotlin,js,html,css,cs,ai,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=git,github,unity,blender,java,kotlin,js,html,css,cs,ai,ps,pr,vscode,visualstudio,py,godot" />
   </a>
 </p>
 <br />
